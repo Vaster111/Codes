@@ -1,0 +1,1 @@
+CREATE DATABASE TEST_BASE(index SERIAL, random_number INT(23));
